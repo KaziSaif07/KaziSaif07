@@ -79,7 +79,7 @@ Soft skills — Problem Solving · Analytical Thinking · Teamwork & Collaborati
 
 Open to Software Engineering & Full-Stack Development internships
 
-[LinkedIn](#) · [Email](#) · [Explore my repositories →](#)
+[LinkedIn](https://www.linkedin.com/in/kazi-md-saifuddin-98079342) · [Email](mailto:kazisaif7898@gmail.com) · [Explore my repositories →](https://github.com/KaziSaif07?tab=repositories)
 
 <br>
 
