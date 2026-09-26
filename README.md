@@ -83,6 +83,6 @@ Open to Software Engineering & Full-Stack Development internships
 
 <br>
 
-![Contribution Snake Animation](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Contribution Snake Animation](https://raw.githubusercontent.com/KaziSaif07/KaziSaif07/output/github-contribution-grid-snake.svg?v=1)
 
 </div>
