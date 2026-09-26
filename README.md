@@ -1,9 +1,15 @@
-<h1 align="center">Hi, I'm Kazi Mohd Saifuddin 👋</h1>
-<h3 align="center">Full-Stack Developer | B.Tech IT Student | Building practical, project-based solutions</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2D3EEE,100:0D1117&height=180&section=header&text=Kazi%20Mohd%20Saifuddin&fontSize=40&fontColor=FFFFFF&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20B.Tech%20IT%20Student&descAlignY=58&descSize=18&animation=fadeIn" alt="header banner"/>
+
+<p align="center">
+  <a href="https://github.com/KaziSaif07">
+    <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=650&lines=Building+full-stack+web+apps;Exploring+AI+%2B+FinOps+automation;Turning+ideas+into+working+products;Always+learning%2C+always+shipping" alt="Typing SVG"/>
+  </a>
+</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/EXPLORE_MY_WORK-2D3EEE?style=for-the-badge&logo=github&logoColor=white" alt="Explore my repositories"/>
   <img src="https://img.shields.io/badge/OPEN_TO_INTERNSHIPS-163B65?style=for-the-badge&logo=rocket&logoColor=white" alt="Open to internships"/>
+  <img src="https://komarev.com/ghpvc/?username=KaziSaif07&style=for-the-badge&color=58A6FF&label=PROFILE+VIEWS" alt="Profile views"/>
 </p>
 
 **Curious. Full-stack focused. Always building.**
@@ -70,3 +76,15 @@ Open to <b>Software Engineering & Full-Stack Development internships</b><br/>
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=KaziSaif07&bg_color=0D1117&color=8B949E&line=2D3EEE&point=58A6FF&area=true&area_color=163B65&hide_border=true" alt="Kazi's recent GitHub contribution activity"/>
 </p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=KaziSaif07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Kazi's GitHub stats" height="165"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=KaziSaif07&theme=tokyonight&hide_border=true" alt="Kazi's GitHub streak" height="165"/>
+</p>
+
+<!-- Animated snake contribution graph — appears here once the snake.yml workflow (see setup notes) has run at least once -->
+<p align="center">
+<img src="https://raw.githubusercontent.com/KaziSaif07/KaziSaif07/output/github-contribution-grid-snake.svg" alt="Snake animation of GitHub contributions"/>
+</p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:2D3EEE&height=100&section=footer"/>
